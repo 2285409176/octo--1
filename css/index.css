@@ -1,0 +1,316 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;	
+	list-style-type: none;		
+}
+#headerone{
+	width:100%;
+}
+#herder1{	
+	height: 80px;
+	width: 100%;
+}
+#tupian{
+	width: 15%;
+	height: 78px;
+	margin-left: 160px;
+	margin-top: 12px;
+	float: left;	
+}
+#tupianright{
+	height: 36px;
+	width: 72%;
+	background-image: url(../img/beijng1.png);
+	float: left;
+	text-align: center;
+	background-repeat: no-repeat;
+	margin-top: 28px;
+	margin-left: 35px;
+}
+#-box input{
+	height: 26px;
+	width: 400px;
+	border:1px solid #DEDEDE;
+	margin-right: 500px;
+	margin-top: 4px;	
+}
+#search img{
+	background:#3B99FC;
+	width: 25px;
+	height: 26px;
+	border: 1px solid #3B99FC;
+	position: relative;
+	right: 36px;
+	bottom: 28px;	
+}
+#register li{
+	float: left;
+	position:relative;
+	left:720px;
+	bottom:54px;
+	font-size: 13px;		
+}
+#nav-box li{
+	list-style-type: none;
+	float: left;
+	text-indent: -276px;
+	line-height: 35px;
+	padding: 1px 26px;
+	margin-left: 72px;
+	font-size: 14px;
+}
+a:link{
+	color: #fff;
+}
+#header2{
+	height: 450px;
+	width: 100%;
+}
+/*轮播*/
+#nav-lunbo{
+	position:relative;
+}
+#ol{
+	position:absolute;
+	top:415px;
+	left:700px;
+}
+#ol li{
+	list-style: none;
+	float:left;
+	width:10px;
+	height:10px;	
+	border-radius: 50%;
+	border:1px solid white;
+	text-align:center;
+	margin-right:10px;
+}
+.active{
+	background-color:white;				
+}
+#nav-lunbo img{
+	width: 1519px;
+	height: 450px;	
+}
+.image img{
+	width: 490px;
+	height: 350px;
+	position: relative;
+	left: 190px;
+	top: -400px;
+}
+/*轮播*/
+#demo{
+	height: 132px;
+	width: 1194px;
+	margin: 0px auto;
+	font-size: 15px;	
+}
+#demoa img{
+	width: 39px;
+	height: 39px;
+	margin-right: -7px;
+}
+#demoa li{
+	float: left;
+	padding: 15px;
+	padding-left: 140px;
+	padding-top: 25px;
+	list-style-type: none;
+	text-indent: -2em;
+}
+#demob li{
+	float: left;
+	padding: 10px;
+	text-indent:0em;
+	padding: 22px;
+	padding-left: 70px;
+	padding-top: 0px;
+	list-style-type: none;		
+}
+#demo1{
+	height: 330px;
+	width: 1194px;
+	margin: 0px auto;
+}
+#demo1 img{
+	width: 585px;
+	height: 155px;
+	margin: 4px;
+}
+#kong{
+	height: 80px;
+	width: 1500px;	
+}
+#kong li{
+	font-size: 16px;
+	padding-top: 45px;
+	padding-left: 170px;
+	color: #3B99FC;
+	float: left;
+	list-style-type: none;	
+}
+#kongone li{
+	font-size: 16px;
+	padding-left: 1300px;
+	padding-top: 0px;
+	color: #999;
+	position: relative;
+	left: 5px;
+	top: -16px;
+	}
+#demo2{
+	width: 1190px;
+	height: 255px;	
+	margin: 0px auto;
+	padding-top: 30px;	
+	margin: 0 auto;
+	padding-top: 12px;	
+}
+#demo3{
+	width: 1194px;
+	height: 255px;
+	margin: 0px auto;
+	padding-top: 30px;
+	padding-top:1px ;	
+}
+#aaa,#bbb,#ccc,#ddd{
+	width: 285px;
+	height: 240px;
+	border: 1px solid #DEDEDE;
+	float: left;
+	padding-left: 1px;
+	margin-right: 9px;	
+}
+#aaa img{	
+	width: 286px;
+	height: 160px;
+}
+#bbb img{
+	width: 286px;
+	height: 160px;	
+}
+#ccc img{
+	width: 286px;
+	height: 160px;
+}
+#ddd img{
+	width: 286px;
+	height: 160px;
+}
+#eee,#fff,#ggg,#hhh{
+	width: 285px;
+	height: 240px;
+	border: 1px solid #DEDEDE;
+	float: left;
+	padding-left: 1px;
+	margin-right: 9px;		
+}
+#eee img{	
+	width: 286px;
+	height: 160px;
+}
+#fff img{
+	width: 286px;
+	height: 160px;	
+}
+#ggg img{
+	width: 286px;
+	height: 160px;
+}
+#hhh img{
+	width: 286px;
+	height: 160px;
+}
+#information-bar{
+	width: 1178px;
+	height: 47px;
+	margin: 0px auto;	
+}
+#information-bar input{
+	width: 389px;
+	height: 46px;
+	background:#efeff3;
+	border:0px solid #3B99FC;
+	color: #666;
+	font-size: 15px;
+	margin: 0px;
+}
+#information-barone{
+	width: 1187px;
+	height: 200px;
+	border: 1px solid #DEDEDE;
+	margin: 0px auto;	
+}
+#information-barone table{
+	margin: 15px;
+}
+.information-barfive{
+	width: 99%;
+	height: 200px;
+	margin-top: 60px;
+	background: #f8f8f8;
+}
+.foot1 img{
+	width: 200px;
+	height: 36px;
+	position: relative;
+	left: 220px;
+	top: 20px;	
+}
+.foot-2{
+	float: right;
+	margin-top: -110px;
+	position: relative;
+	left: -390px;		
+}
+.foot7{
+	position: relative;
+	top: -60px;
+}
+.foot3 img{
+	width: 80px;
+	height: 80px;
+	float: left;
+	margin-right: 50px;	
+	padding-left: 680px;	
+}
+.foot4 img{
+	width: 80px;
+	height: 80px;
+	float: left;
+	margin-right: 40px;
+	padding-top: -300px;
+}
+.foot5 img{
+	width: 80px;
+	height: 80px;
+	float: left;
+	margin-right: 40px;
+}
+.foot6 img{
+	width: 80px;
+	height: 80px;
+	float: left;
+	margin-right: 40px;
+}
+#footend{	
+	width: 99%;
+	height: 80px;
+	background: #666;
+}
+#footend li{
+	margin-left: 450px;
+	margin-top: -7px;
+	font-size: 14px;
+	color: white;
+}
+
+
+
+
+
+
+
+
